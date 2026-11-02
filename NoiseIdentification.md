@@ -23,3 +23,5 @@ You should've seen my reaction when I learned about Voronoi Maze!
 
 Rule Seed was added waaaaaaaaay after the fact, and the idea of adding more Noises felt so compelling that I just did that, so there are four Noise Types that can only appear on Rule Seeds other than 1: Anisotropic, Dirt, Fluid and Gaussian.\
 This is still not a lot, just 10 Noises in total, so it's one of those very rare modules that are affected by Rule Seed but that are still a Solo, and I'm very proud of that.
+
+Noise ID was, for a very long time, a module that I despised because of its "nothingness". It's very quick, a nothingburger solo... But people liked it and put it on bombs! Over time I softened a bit and saw that it served a purpose: inoffensive and fun filler modules when you need something on a mission that won't take 5 minutes just to read. It's a niche but it fits right in, and that's all that I could ask it to do.
