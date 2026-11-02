@@ -1,6 +1,6 @@
 # KTANE Mods Behind-The-Scenes #1: Noise Identification
 
-![Noise Identification](/Images/NoiseIdentification.JPG)
+<img src="/Images/NoiseIdentification.JPG" style="width: 250px"/>
 
 My very first mod, after consuming a lot of KTANE content through The Great Berate and joining the KTANE Discord.\
 I never could've imagined what was coming afterwards ^^

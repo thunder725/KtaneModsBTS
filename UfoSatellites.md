@@ -1,6 +1,6 @@
 # KTANE Mods Behind-The-Scenes #2: UFO Satellites
 
-![UFO Satellites](/Images/UfoSatellites.PNG)
+<img src="/Images/UfoSatellites.PNG" style="width: 250px"/>
 
 Second mod, and I immediately wanted to up the stakes:\
 - Inspiration from Pokémon, specifically Iron Moth, because I thought we needed more Pokémon-based modules (while still being subtle).
@@ -31,7 +31,7 @@ Foreshadowing is a narrative devic-
 UFO Satellites was the Satellites Capsule, but there were three other mods that probably will never see the light of day!
 
 - Cloak Capsule, renamed Bagworm Cloak, was a module based on Burmy, one of my favorite Bug Pokémon. It was based on having piles of leaves, sand and trash on the module, some even having pebbles mixed within (Overcloaked piles). Using the count of each category, you'd create a key using a season (WINTER / SPRING / AUTUMN / SUMMER) which is amazing since all four seasons have exactly 6 letters, modifying the key, and then use this key as a way to switch between Leaves/Sand/Trash in a circular diagram (see below) to determine what to submit. Its main problem is that there's a bunch of nothing interesting going on; I like the idea of having the piles as a read, and I like the fact that all four seasons have 6 letters; but it's not enough to warrant the module's existence.
-![Bagworm Cloak's diagram](/Images/BagwormCloakDiagram.png)
+<img src="/Images/BagwormCloakDiagram.png" style="width: 250px"/>
 
 - Fillet Capsule was a module based on Veluza, one of my favorite Pokémon from generation 9. It was basically just an edgework-math module, an attempt at making a read-less module where you computed a few numbers and pressed the correct fish fillets in order. This became Toxic Crystals later down the line, just in a better way.
 - Crescent Capsule was a module based on Lunala. It was my attempt at making some interactive module, but it was just a table with increasingly annoying functions. Imagine Fast Math, but each stage had its own formula depending on the given colour, and there was no time limit. Just pure, unfiltered mathslop.
