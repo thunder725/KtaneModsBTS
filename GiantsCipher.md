@@ -1,6 +1,6 @@
 # KTANE Mods Behind-The-Scenes #3: Giants Cipher
 
-<img src="/Images/GiantsCipher.JPG" style="width: 250px"/>
+<img src="/Images/GiantsCipher.png" style="width: 250px"/>
 
 That impossible-to-type flavour text is in reference to a [very specific meme](https://www.youtube.com/watch?v=ne73FoA8ovc) about the Regi's speech in the Pokémon Anime, and somebody graciously had a text transcript for me to use in the flavour text!\
 ÜN ÜN ÜN 𓀂𓀇𓀉𓀍𓀠𓁀𓁂𓀱𓁉𓀿𓀪𓁶𓂧𓂮𓂫𓃹𓃳𓄜𓄲𓄓𓅆𓅢𓅼𓆀𓆾𓈙𓉒𓉼𓊪𓋜𓋒𓍲𓎳𓁀𓄲𓅢 ÜN ÜN ÜN ÜN ÜN ÜN AAAAAAAAAAAAAOOOOOOOOORRRRXT
