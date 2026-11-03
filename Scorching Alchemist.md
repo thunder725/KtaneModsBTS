@@ -4,6 +4,8 @@
 
 One of my favorite games of all time is Rogue Galaxy, a completely unknown and forgotten JRPG released on the Playstation 2 in 2007. The "Scorching Alchemist", also known as a Mark VIII Salamander, is the first boss you fight at the end of the tutorial of the game.
 
+"Desert Claw" being in quotation marks in the flavour text is a reference to the story of the game, because we love quiproquos in plots!!
+
 Since all of my previous mods were Pokémon themed, and I was deep in the production of the Mythical Plates which also were Pokémon-Themed, I wanted to do something special for April 1st, so my idea was "for April First I'm making a module that's not Pokémon Themed, that's my prank".\
 Nowadays I just do whatever I like and that's all good :D
 

@@ -1,6 +1,6 @@
 # KTANE Mods Behind-The-Scenes #2: UFO Satellites
 
-<img src="/Images/UfoSatellites.PNG" style="width: 250px"/>
+<img src="/Images/UfoSatellites.png" style="width: 250px"/>
 
 Second mod, and I immediately wanted to up the stakes:
 - Inspiration from Pokémon, specifically Iron Moth, because I thought we needed more Pokémon-based modules (while still being subtle).
