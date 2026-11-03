@@ -26,7 +26,7 @@ I needed a mechanic that was flexible enough to allow for basically any gameplay
 
 So I came up with the concept of Voided cells: Cells in grids that you phase right through. "Voided Cells do not exist" was the first concept and still is in most manuals. It was very impactful for ideas such as traversing a grid, labyrinths and other usual ideas, but it could also be applied to texts, diagrams and pretty much anything I wanted!!
 
-Fun Fact: I learned about Rule Seed implementation while coding the Mythical Plates, because adding something new inside of that massive project didn't matter since the amount of work already was enormous! I then went back and added Rule Seed to all of my previous mods that could support it.
+Fun Fact: I learned about Rule Seed implementation while coding the Mythical Plates, because adding something new inside of that massive project didn't matter since the amount of work already was enormous! I then went back and added Rule Seed to all of my previous mods that could support it, and going forward I add Rule Seed during production.
 
 I spent A LOT of time tweaking the individual colours of the 18 Plates to make them as different and recognizable as possible on their own. Sure, you have their names on the casing and different inscriptions onto them... But it still mattered to me!
 
