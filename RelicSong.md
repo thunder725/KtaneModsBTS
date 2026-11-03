@@ -18,8 +18,6 @@ I wanted this boss to also include a Stage Counter, so the number on the Clef in
 
 On the Audio & Visuals side, I designed the note apparition VFX to look like the move Relic Song's appearance in Pokémon Mystery Dungeon (see below). Just like UFO Satellites, the module turns Shiny after being Solved, with the stave turning a bright teal. I retrieved from the net the in-game 3D model for Meloetta and extracted just the clef for the module. A bunch of tweaks to its overall proportions and shape was needed to make it fit, but that's worth it!
 
-<img src="https://archives.bulbagarden.net/wiki/File:Relic_Song_PMD_GTI.png" style="width: 200px"/>
-
 The note apparition and solve sounds both are Meloetta's cry, but pitched up/down for all notes so they can be recognized just from the sound. Fun Fact, they're all pitched to the notes of E, F#, G#, A# and B, in B major, to fit the original cry!
 
 Relic Song was my first (and probably not last) module to have received a visual update post-release! This is what Relic Song looked like initially:
