@@ -14,7 +14,9 @@ The "concatenate the indicators and count into that" idea was completely separat
 It was also potentially inspired by Indentation, in the way that there's a pattern to press that doesn't have a real "orientation" and so any answer that makes that shape is correct (regarding Indentation's first case in the table). I'm also pretty sure I got inspired by Simon Sends for the aspect of counting through a string and looping at the end.
 
 Since this module is based on the Pokémon Iron Moth, the second shape has the letters HIMNORT as a condition, which are the letters IRON MOTH put alphabetically!\
-Also, it's the reason why the checked port is the Parallel Port, since it's a Parallel (Paradox) Pokémon. This is an idea that will come up later (Toxic Crystals, Spooky Plate...)
+Also, it's the reason why the checked port is the Parallel Port, since it's a Parallel (Paradox) Pokémon. This is an idea that will come up later (Toxic Crystals, Spooky Plate...).
+
+This is also the module where I started the "This Module turns into the Shiny colour of the Pokémon post-solve" trope, which isn't present on all of them but which I very much like.
 
 There is a backstory behind those Pokémon Modules, so I'm gonna tell it in this file:
 
